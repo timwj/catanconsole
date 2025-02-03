@@ -1,0 +1,284 @@
+[
+  {
+    "number": 0,
+    "name": "a",
+    "resources": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 3,
+      "grain": 1,
+      "iron": 1,
+      "total": 5,
+      "totalResources": 5
+    },
+    "resourcesThisTurn": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 0,
+      "grain": 0,
+      "iron": 0,
+      "total": 0,
+      "totalResources": 0
+    },
+    "nVillages": 5,
+    "nCities": 0,
+    "nRoads": 6,
+    "knightCards": 1,
+    "victorypointCards": 0,
+    "roadbuildingCards": 0,
+    "yearofplentyCards": 0,
+    "monopolyCards": 0,
+    "victorypointsFromCards": 0,
+    "knightCardsPlayed": 0,
+    "harbors": [
+      0,
+      6,
+      5,
+      6,
+      6
+    ],
+    "playersLongestRoad": [
+      {
+        "node1": {
+          "y": 9,
+          "x": 6
+        },
+        "node2": {
+          "y": 8,
+          "x": 7
+        }
+      },
+      {
+        "node1": {
+          "y": 8,
+          "x": 5
+        },
+        "node2": {
+          "y": 9,
+          "x": 6
+        }
+      },
+      {
+        "node1": {
+          "y": 7,
+          "x": 5
+        },
+        "node2": {
+          "y": 8,
+          "x": 5
+        }
+      }
+    ],
+    "longestRoadVP": false,
+    "largestArmyVP": false,
+    "victoryPoints": 5,
+    "longestRoad": 3
+  },
+  {
+    "number": 1,
+    "name": "b",
+    "resources": {
+      "lumber": 0,
+      "brick": 2,
+      "wool": 1,
+      "grain": 2,
+      "iron": 0,
+      "total": 5,
+      "totalResources": 5
+    },
+    "resourcesThisTurn": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 0,
+      "grain": 0,
+      "iron": 0,
+      "total": 0,
+      "totalResources": 0
+    },
+    "nVillages": 3,
+    "nCities": 0,
+    "nRoads": 7,
+    "knightCards": 0,
+    "victorypointCards": 0,
+    "roadbuildingCards": 0,
+    "yearofplentyCards": 0,
+    "monopolyCards": 0,
+    "victorypointsFromCards": 0,
+    "knightCardsPlayed": 0,
+    "harbors": [
+      6,
+      6,
+      6
+    ],
+    "playersLongestRoad": [
+      {
+        "node1": {
+          "y": 5,
+          "x": 6
+        },
+        "node2": {
+          "y": 6,
+          "x": 6
+        }
+      },
+      {
+        "node1": {
+          "y": 5,
+          "x": 6
+        },
+        "node2": {
+          "y": 4,
+          "x": 7
+        }
+      },
+      {
+        "node1": {
+          "y": 4,
+          "x": 7
+        },
+        "node2": {
+          "y": 5,
+          "x": 8
+        }
+      },
+      {
+        "node1": {
+          "y": 5,
+          "x": 8
+        },
+        "node2": {
+          "y": 4,
+          "x": 9
+        }
+      }
+    ],
+    "longestRoadVP": false,
+    "largestArmyVP": false,
+    "victoryPoints": 3,
+    "longestRoad": 4
+  },
+  {
+    "number": 2,
+    "name": "c",
+    "resources": {
+      "lumber": 1,
+      "brick": 2,
+      "wool": 0,
+      "grain": 2,
+      "iron": 1,
+      "total": 6,
+      "totalResources": 6
+    },
+    "resourcesThisTurn": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 0,
+      "grain": 0,
+      "iron": 0,
+      "total": 0,
+      "totalResources": 0
+    },
+    "nVillages": 4,
+    "nCities": 0,
+    "nRoads": 9,
+    "knightCards": 0,
+    "victorypointCards": 0,
+    "roadbuildingCards": 0,
+    "yearofplentyCards": 0,
+    "monopolyCards": 0,
+    "victorypointsFromCards": 0,
+    "knightCardsPlayed": 1,
+    "harbors": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "playersLongestRoad": [
+      {
+        "node1": {
+          "y": 1,
+          "x": 6
+        },
+        "node2": {
+          "y": 2,
+          "x": 6
+        }
+      },
+      {
+        "node1": {
+          "y": 3,
+          "x": 5
+        },
+        "node2": {
+          "y": 2,
+          "x": 6
+        }
+      },
+      {
+        "node1": {
+          "y": 3,
+          "x": 5
+        },
+        "node2": {
+          "y": 4,
+          "x": 5
+        }
+      },
+      {
+        "node1": {
+          "y": 5,
+          "x": 4
+        },
+        "node2": {
+          "y": 4,
+          "x": 5
+        }
+      },
+      {
+        "node1": {
+          "y": 4,
+          "x": 3
+        },
+        "node2": {
+          "y": 5,
+          "x": 4
+        }
+      },
+      {
+        "node1": {
+          "y": 3,
+          "x": 3
+        },
+        "node2": {
+          "y": 4,
+          "x": 3
+        }
+      },
+      {
+        "node1": {
+          "y": 3,
+          "x": 3
+        },
+        "node2": {
+          "y": 2,
+          "x": 4
+        }
+      },
+      {
+        "node1": {
+          "y": 2,
+          "x": 4
+        },
+        "node2": {
+          "y": 3,
+          "x": 5
+        }
+      }
+    ],
+    "longestRoadVP": true,
+    "largestArmyVP": false,
+    "victoryPoints": 6,
+    "longestRoad": 8
+  }
+]
