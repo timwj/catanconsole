@@ -1,0 +1,158 @@
+[
+  {
+    "number": 0,
+    "name": "a",
+    "resources": {
+      "lumber": 25,
+      "brick": 25,
+      "wool": 25,
+      "grain": 25,
+      "iron": 25,
+      "total": 25,
+      "totalResources": 3
+    },
+    "resourcesThisTurn": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 0,
+      "grain": 0,
+      "iron": 0,
+      "total": 0,
+      "totalResources": 0
+    },
+    "nVillages": 2,
+    "nCities": 0,
+    "nRoads": 2,
+    "knightCards": 0,
+    "victorypointCards": 0,
+    "roadbuildingCards": 0,
+    "yearofplentyCards": 0,
+    "monopolyCards": 3,
+    "victorypointsFromCards": 0,
+    "knightCardsPlayed": 0,
+    "harbors": [
+      0,
+      6
+    ],
+    "playersLongestRoad": [
+      {
+        "u": {
+          "y": 3,
+          "x": 1
+        },
+        "v": {
+          "y": 2,
+          "x": 2
+        }
+      }
+    ],
+    "longestRoadVP": false,
+    "largestArmyVP": false,
+    "victoryPoints": 2,
+    "longestRoad": 1
+  },
+  {
+    "number": 1,
+    "name": "b",
+    "resources": {
+      "lumber": 25,
+      "brick": 25,
+      "wool": 25,
+      "grain": 25,
+      "iron": 25,
+      "total": 25,
+      "totalResources": 3
+    },
+    "resourcesThisTurn": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 0,
+      "grain": 0,
+      "iron": 0,
+      "total": 0,
+      "totalResources": 0
+    },
+    "nVillages": 2,
+    "nCities": 0,
+    "nRoads": 2,
+    "knightCards": 0,
+    "victorypointCards": 0,
+    "roadbuildingCards": 0,
+    "yearofplentyCards": 0,
+    "monopolyCards": 3,
+    "victorypointsFromCards": 0,
+    "knightCardsPlayed": 0,
+    "harbors": [
+      6,
+      6
+    ],
+    "playersLongestRoad": [
+      {
+        "u": {
+          "y": 4,
+          "x": 1
+        },
+        "v": {
+          "y": 5,
+          "x": 2
+        }
+      }
+    ],
+    "longestRoadVP": false,
+    "largestArmyVP": false,
+    "victoryPoints": 2,
+    "longestRoad": 1
+  },
+  {
+    "number": 2,
+    "name": "c",
+    "resources": {
+      "lumber": 25,
+      "brick": 25,
+      "wool": 25,
+      "grain": 25,
+      "iron": 25,
+      "total": 25,
+      "totalResources": 3
+    },
+    "resourcesThisTurn": {
+      "lumber": 0,
+      "brick": 0,
+      "wool": 0,
+      "grain": 0,
+      "iron": 0,
+      "total": 0,
+      "totalResources": 0
+    },
+    "nVillages": 2,
+    "nCities": 0,
+    "nRoads": 2,
+    "knightCards": 0,
+    "victorypointCards": 0,
+    "roadbuildingCards": 0,
+    "yearofplentyCards": 0,
+    "monopolyCards": 3,
+    "victorypointsFromCards": 0,
+    "knightCardsPlayed": 0,
+    "harbors": [
+      6,
+      6
+    ],
+    "playersLongestRoad": [
+      {
+        "u": {
+          "y": 3,
+          "x": 3
+        },
+        "v": {
+          "y": 4,
+          "x": 3
+        }
+      }
+    ],
+    "longestRoadVP": false,
+    "largestArmyVP": false,
+    "victoryPoints": 2,
+    "longestRoad": 1
+  }
+]
